@@ -8,6 +8,10 @@
   text-decoration: none;
 }
 
+.nav-link:hover {
+  background-color: orange;
+}
+
 .stage {
   outline: none;
   border: none;
